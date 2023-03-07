@@ -39,6 +39,6 @@ echo "sorted results Done"
 #samtools index mapped/REL.sorted.bam 
 #Index the ref by samtools
 samtools faidx ref/REL606.fasta 
-# -----------Ste8 -------------------
+# -----------Step 8 -------------------
 #Finally we can use IGV Tool to visualize the bam file 
 #https://software.broadinstitute.org/software/igv/
