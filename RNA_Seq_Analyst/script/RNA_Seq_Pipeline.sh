@@ -23,18 +23,18 @@ fastqc data/demo.fastq -o data/
 java -jar /usr/local/bin/trimmomatic-0.39.jar SE -threads 4 data/demo.fastq data/demo_trimmed.fastq TRAILING:10 -phred33
 echo "Trimmomatic finished running!"
 
-#fastqc data/demo_trimmed.fastq -o data/
+fastqc data/demo_trimmed.fastq -o data/
 
 #-------------------------Step 2: Run HISAT2-------------------
 '''
 HISAT2 is a fast and sensitive alignet program for mapping NGS reads both DNA & RNA to Hg 
 as well as single genome referance
 '''
-#mkdir HISAT2
+mkdir HISAT2
 #get the genome indicates
-#wget https://genome-idx.s3.amazonaws.com/hisat/grch38_genome.tar.gz
+wget https://genome-idx.s3.amazonaws.com/hisat/grch38_genome.tar.gz
 #Unzip the file
-#tar -xf grch38_genome.tar.gz
+tar -xf grch38_genome.tar.gz
 
 #-q :read fastq files
 #--rna-strandness :Specify strand-specific information R
@@ -46,8 +46,8 @@ echo "Hisatq finished running!"
 
 #-----------------------Step 3 : Run featureCounts - Quantifiation------------
 #get gtf 
-#wget https://ftp.ensembl.org/pub/release-108/gtf/homo_sapiens/Homo_sapiens.GRCh38.108.gtf.gz
-#gunzip Homo_sapiens.GRCh38.108.gtf.gz
+wget https://ftp.ensembl.org/pub/release-108/gtf/homo_sapiens/Homo_sapiens.GRCh38.108.gtf.gz
+gunzip Homo_sapiens.GRCh38.108.gtf.gz
 
 #-s:specifies strand-specific read counting
 #2 : reversely stranded reads
