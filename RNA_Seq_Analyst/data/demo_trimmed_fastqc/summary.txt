@@ -1,0 +1,11 @@
+PASS	Basic Statistics	demo_trimmed.fastq
+PASS	Per base sequence quality	demo_trimmed.fastq
+PASS	Per tile sequence quality	demo_trimmed.fastq
+PASS	Per sequence quality scores	demo_trimmed.fastq
+FAIL	Per base sequence content	demo_trimmed.fastq
+PASS	Per sequence GC content	demo_trimmed.fastq
+PASS	Per base N content	demo_trimmed.fastq
+WARN	Sequence Length Distribution	demo_trimmed.fastq
+PASS	Sequence Duplication Levels	demo_trimmed.fastq
+PASS	Overrepresented sequences	demo_trimmed.fastq
+PASS	Adapter Content	demo_trimmed.fastq

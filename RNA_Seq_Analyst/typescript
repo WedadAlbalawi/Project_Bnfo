@@ -1,0 +1,37 @@
+Script started on Sun Dec 11 08:28:23 2022
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004h[7mjava -jar cromwell-<versionNumber>.jar[27m[38D[27mj[27ma[27mv[27ma[27m [27m-[27mj[27ma[27mr[27m [27mc[27mr[27mo[27mm[27mw[27me[27ml[27ml[27m-[27m<[27mv[27me[27mr[27ms[27mi[27mo[27mn[27mN[27mu[27mm[27mb[27me[27mr[27m>[27m.[27mj[27ma[27mr[?2004l
+zsh: no such file or directory: versionNumber
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004hjava -jar cromwell-<versionNumber>.jar>.jar >.jar >.jar >.jar >.jar >.jar >.jar >.jar >.jar >.jar >.jar >.jar >.jar [1C.jar .jar .jar [?2004l
+Error: Unable to access jarfile cromwell.jar
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004h[7m java -version[27m[14D[27m [27mj[27ma[27mv[27ma[27m [27m-[27mv[27me[27mr[27ms[27mi[27mo[27mn[?2004l
+openjdk version "11.0.13" 2021-10-19
+OpenJDK Runtime Environment JBR-11.0.13.7-1751.21-jcef (build 11.0.13+7-b1751.21)
+OpenJDK 64-Bit Server VM JBR-11.0.13.7-1751.21-jcef (build 11.0.13+7-b1751.21, mixed mode)
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004h[7m java -version[27m[14D[27m [27mj[27ma[27mv[27ma[27m [27m-[27mv[27me[27mr[27ms[27mi[27mo[27mn[P[13C [14D[?2004l
+openjdk version "11.0.13" 2021-10-19
+OpenJDK Runtime Environment JBR-11.0.13.7-1751.21-jcef (build 11.0.13+7-b1751.21)
+OpenJDK 64-Bit Server VM JBR-11.0.13.7-1751.21-jcef (build 11.0.13+7-b1751.21, mixed mode)
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004h[7mjava - jar jar /Applications/cromwell-84.jar[27m[44D[27mj[27ma[27mv[27ma[27m [27m-[27m [27mj[27ma[27mr[27m [27mj[27ma[27mr[27m [27m/[27mA[27mp[27mp[27ml[27mi[27mc[27ma[27mt[27mi[27mo[27mn[27ms[27m/[27mc[27mr[27mo[27mm[27mw[27me[27ml[27ml[27m-[27m8[27m4[27m.[27mj[27ma[27mr[?2004l
+Unrecognized option: -
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004hjava - jar jar /Applications/cromwell-84.jar[44D                                            [44Dlls[?2004l
+HISAT2				data				script
+Homo_sapiens.GRCh38.108.gtf	hello_world.sh			typescript
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004h[7mjava - jar jar /Applications/cromwell-84.jar[27m[44D[27mj[27ma[27mv[27ma[27m [27m-[27m [27mj[27ma[27mr[27m [27mj[27ma[27mr[27m [27m/[27mA[27mp[27mp[27ml[27mi[27mc[27ma[27mt[27mi[27mo[27mn[27ms[27m/[27mc[27mr[27mo[27mm[27mw[27me[27ml[27ml[27m-[27m8[27m4[27m.[27mj[27ma[27mr[P[30C [31D[P[30C [31D[P[30C [31D[P[29C [31D[1C /Applications/cromwell-84.jar[30D[?2004l
+Unrecognized option: -
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004hjava - jar  /Applications/cromwell-84.jar[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[P[15C [16D[P[15C [16D[P[15C [16D[P[15C [16D[P[15C [16D[P[15C [16D[P[15C [16D[P[14C [16D[P[15C [16D[P[15C [16D[P[15C [16D[P[15C [16D[P[15C [16D[P[15C [16D[?2004l
+Unrecognized option: -
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004hjava - jar  cromwell-84.jar[P[15C [16D[P[15C [16D cromwell-84.jar[15D[?2004l
+Unrecognized option: -
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004hjava - jar cromwell-84.jar/cromwell-84.jar[15D~/cromwell-84.jar[16D[?2004l
+Unrecognized option: -
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+[1m[7m%[27m[1m[0m                                                                                                                                       [0m[27m[24m[J(base) wedadalbalawi@Wedads-MacBook-Air RNA_Seq_Analyst % [K[?2004h
