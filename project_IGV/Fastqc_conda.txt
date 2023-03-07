@@ -1,0 +1,24 @@
+'''
+to perform the quality control of high perform seq data 
+
+
+
+'''
+
+
+
+
+
+conda config --add channels bioconda
+conda config --show channls 
+conda create -n fastq fastqc
+conda activate fastqc
+#list 
+conda env list 
+#activate
+conda activate fastqc
+# run fastqc with commandline 
+fastqc file name
+#
+
+
